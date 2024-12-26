@@ -3,21 +3,21 @@ export const themeConfig = {
   // 站点信息
   siteMeta: {
     // 站点标题
-    title: "Curve",
+    title: "Nanqiao's Blog",
     // 站点描述
-    description: "Hello World",
+    description: "欢迎来到我的个人小站，这里有关于游戏策划，前端开发等相关内容的分享。",
     // 站点logo
     logo: "/images/logo/logo.webp",
     // 站点地址
-    site: "https://blog.imsyy.top",
+    site: "https://personal-blog-phi-six.vercel.app/",
     // 语言
     lang: "zh-CN",
     // 作者
     author: {
-      name: "Admin",
+      name: "NanQiao",
       cover: "/images/logo/logo.webp",
-      email: "114514@gmail.com",
-      link: "https://www.imsyy.top",
+      email: "814605664@qq.com",
+      link: "https://personal-blog-phi-six.vercel.app/",
     },
   },
   // 备案信息
@@ -152,66 +152,66 @@ export const themeConfig = {
           name: "主站",
           url: "/",
         },
-        {
-          icon: "/images/logo/logo.webp",
-          name: "博客镜像站",
-          url: "https://blog-backup.imsyy.top/",
-        },
+        // {
+        //   icon: "/images/logo/logo.webp",
+        //   name: "博客镜像站",
+        //   url: "https://blog-backup.imsyy.top/",
+        // },
       ],
     },
     {
       name: "服务",
       list: [
-        {
-          icon: "https://pic.efefee.cn/uploads/2024/04/08/6613465358077.png",
-          name: "起始页",
-          url: "https://nav.imsyy.top/",
-        },
-        {
-          icon: "https://pic.efefee.cn/uploads/2024/04/08/661346d418ad7.png",
-          name: "今日热榜",
-          url: "https://hot.imsyy.top/",
-        },
-        {
-          icon: "https://pic.efefee.cn/uploads/2024/04/08/66134722586fa.png",
-          name: "站点监测",
-          url: "https://status.imsyy.top/",
-        },
+        // {
+        //   icon: "https://pic.efefee.cn/uploads/2024/04/08/6613465358077.png",
+        //   name: "起始页",
+        //   url: "https://nav.imsyy.top/",
+        // },
+        // {
+        //   icon: "https://pic.efefee.cn/uploads/2024/04/08/661346d418ad7.png",
+        //   name: "今日热榜",
+        //   url: "https://hot.imsyy.top/",
+        // },
+        // {
+        //   icon: "https://pic.efefee.cn/uploads/2024/04/08/66134722586fa.png",
+        //   name: "站点监测",
+        //   url: "https://status.imsyy.top/",
+        // },
       ],
     },
     {
       name: "项目",
       list: [
-        {
-          icon: "/images/logo/logo.webp",
-          name: "Curve",
-          url: "https://github.com/imsyy/vitepress-theme-curve",
-        },
-        {
-          icon: "https://pic.efefee.cn/uploads/2024/04/07/66124f5fc63c8.png",
-          name: "SPlayer",
-          url: "https://github.com/imsyy/SPlayer",
-        },
-        {
-          icon: "https://pic.efefee.cn/uploads/2024/04/08/6613465358077.png",
-          name: "Snavigation",
-          url: "https://github.com/imsyy/SPlayer",
-        },
-        {
-          icon: "/images/logo/logo.webp",
-          name: "Home",
-          url: "https://github.com/imsyy/home",
-        },
-        {
-          icon: "https://pic.efefee.cn/uploads/2024/04/08/661346d418ad7.png",
-          name: "DailyHotApi",
-          url: "https://github.com/imsyy/DailyHotApi",
-        },
-        {
-          icon: "https://pic.efefee.cn/uploads/2024/04/08/66134722586fa.png",
-          name: "site-status",
-          url: "https://github.com/imsyy/site-status",
-        },
+        // {
+        //   icon: "/images/logo/logo.webp",
+        //   name: "Curve",
+        //   url: "https://github.com/imsyy/vitepress-theme-curve",
+        // },
+        // {
+        //   icon: "https://pic.efefee.cn/uploads/2024/04/07/66124f5fc63c8.png",
+        //   name: "SPlayer",
+        //   url: "https://github.com/imsyy/SPlayer",
+        // },
+        // {
+        //   icon: "https://pic.efefee.cn/uploads/2024/04/08/6613465358077.png",
+        //   name: "Snavigation",
+        //   url: "https://github.com/imsyy/SPlayer",
+        // },
+        // {
+        //   icon: "/images/logo/logo.webp",
+        //   name: "Home",
+        //   url: "https://github.com/imsyy/home",
+        // },
+        // {
+        //   icon: "https://pic.efefee.cn/uploads/2024/04/08/661346d418ad7.png",
+        //   name: "DailyHotApi",
+        //   url: "https://github.com/imsyy/DailyHotApi",
+        // },
+        // {
+        //   icon: "https://pic.efefee.cn/uploads/2024/04/08/66134722586fa.png",
+        //   name: "site-status",
+        //   url: "https://github.com/imsyy/site-status",
+        // },
       ],
     },
   ],
@@ -239,27 +239,27 @@ export const themeConfig = {
     social: [
       {
         icon: "email",
-        link: "mailto:one@imsyy.top",
+        link: "814605664@qq.com",
       },
       {
         icon: "github",
-        link: "https://www.github.com/imsyy/",
+        link: "https://github.com/13540665241",
       },
       {
         icon: "telegram",
-        link: "https://t.me/bottom_user",
+        link: "",
       },
       {
         icon: "bilibili",
-        link: "https://space.bilibili.com/98544142",
+        link: "",
       },
       {
         icon: "qq",
-        link: "https://res.abeim.cn/api/qq/?qq=1539250352",
+        link: "",
       },
       {
         icon: "twitter-x",
-        link: "https://twitter.com/iimmsyy",
+        link: "",
       },
     ],
     // sitemap
@@ -276,10 +276,10 @@ export const themeConfig = {
       {
         text: "项目",
         items: [
-          { text: "Home", link: "https://github.com/imsyy/home/", newTab: true },
-          { text: "SPlayer", link: "https://github.com/imsyy/SPlayer/", newTab: true },
-          { text: "DailyHotApi", link: "https://github.com/imsyy/DailyHotApi/", newTab: true },
-          { text: "Snavigation", link: "https://github.com/imsyy/Snavigation/", newTab: true },
+          { text: "Home", link: "", newTab: true },
+          { text: "SPlayer", link: "", newTab: true },
+          { text: "DailyHotApi", link: "", newTab: true },
+          { text: "Snavigation", link: "", newTab: true },
         ],
       },
       {
