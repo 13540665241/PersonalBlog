@@ -218,11 +218,11 @@ export const themeConfig = {
   // 封面配置
   cover: {
     // 是否开启双栏布局
-    twoColumns: false,
+    twoColumns: true,
     // 是否开启封面显示
     showCover: {
       // 是否开启封面显示 文章不设置cover封面会显示异常，可以设置下方默认封面
-      enable: true,
+      enable: false,
       // 封面布局方式: left | right | both
       coverLayout: 'both',
       // 默认封面(随机展示)
