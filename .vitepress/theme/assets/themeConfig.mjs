@@ -3,7 +3,7 @@ export const themeConfig = {
   // 站点信息
   siteMeta: {
     // 站点标题
-    title: "Nanqiao's Blog",
+    title: "RuiXin's Blog",
     // 站点描述
     description: "欢迎来到我的个人小站，这里有关于游戏策划，前端开发等相关内容的分享。",
     // 站点logo
@@ -14,7 +14,7 @@ export const themeConfig = {
     lang: "zh-CN",
     // 作者
     author: {
-      name: "NanQiao",
+      name: "RuiXin",
       cover: "/images/logo/logo.webp",
       email: "814605664@qq.com",
       link: "https://personal-blog-phi-six.vercel.app/",
@@ -23,7 +23,7 @@ export const themeConfig = {
   // 备案信息
   icp: "萌ICP备114514号",
   // 建站日期
-  since: "2020-07-28",
+  since: "2024-12-26",
   // 每页文章数据
   postSize: 8,
   // inject
@@ -215,7 +215,7 @@ export const themeConfig = {
       ],
     },
   ],
-  // 封面配置
+  // 文章封面配置
   cover: {
     // 是否开启双栏布局
     twoColumns: true,
@@ -307,7 +307,7 @@ export const themeConfig = {
           { text: "站点订阅", link: "https://blog.imsyy.top/rss.xml", newTab: true },
           {
             text: "反馈投诉",
-            link: "https://eqnxweimkr5.feishu.cn/share/base/form/shrcnCXCPmxCKKJYI3RKUfefJre",
+            link: "",
             newTab: true,
           },
         ],
@@ -319,7 +319,7 @@ export const themeConfig = {
     enable: false,
     // 评论系统选择
     // artalk / twikoo
-    type: "artalk",
+    type: "twikoo",
     // artalk
     // https://artalk.js.org/
     artalk: {
@@ -401,9 +401,9 @@ export const themeConfig = {
   rewardData: {
     enable: true,
     // 微信二维码
-    wechat: "https://pic.efefee.cn/uploads/2024/04/07/66121049d1e80.webp",
+    wechat: "",
     // 支付宝二维码
-    alipay: "https://pic.efefee.cn/uploads/2024/04/07/661206631d3b5.webp",
+    alipay: "",
   },
   // 图片灯箱
   fancybox: {
