@@ -1,7 +1,7 @@
 ---
 title: UE5目录结构说明
 tags: [UE5引擎学习]
-cover: /images/pic/Cover/Cover.jpg
+cover: /images/pic/UE5/UE5.png
 categories: [UE5引擎学习]
 date: 2024-12-30
 description: UE5目录结构说明
@@ -12,7 +12,7 @@ references:
 ---
 
 ## 目录结构说明
-
+```
 _目录名
 
 ├── Blueprints 蓝图
@@ -46,3 +46,4 @@ _目录名
 │        ├── Textures   纹理
 
 │        ├── Materials  材质
+```
