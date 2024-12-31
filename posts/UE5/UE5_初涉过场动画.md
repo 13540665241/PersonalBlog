@@ -14,7 +14,7 @@ references:
 
 ## 1. 点击添加「添加关卡序列」
 
-![img.png](G:\NanQiao_PersonalBlog\public\images\pic\UE5\UE5_初涉过场动画\img.png)
+![img.png](../../public/images/pic/UE5/UE5_初涉过场动画/img.png)
 
 ## 2.点击添加新的相机
 
