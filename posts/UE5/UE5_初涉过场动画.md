@@ -11,7 +11,6 @@ references:
 - title: 无
   url: 无
 ---
-
 ## 1. 点击添加「添加关卡序列」
 
 ![img.png](/public/images/pic/UE5/UE5_初涉过场动画/img.png)
@@ -29,3 +28,7 @@ references:
 ![image.png](/public/images/pic/UE5/UE5_初涉过场动画/image4.png)
 
 不同机位的设置按照上面的步骤从头配置一遍即可，需要注意的是**上一个机位的「结束关键帧」需要和下一个机位的「开始关键帧」对齐**
+
+## 5.当你有新增机位时，记得点击添加绑定新的摄像机
+
+![image.png](/public/images/pic/UE5/UE5_初涉过场动画/image5.png)
